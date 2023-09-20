@@ -17,6 +17,7 @@
 
 ## 利用方法
 1. e2e, unittest, etc.. を実行
+1. php.iniのstart.phpをコメントアウト
 1. aggregate.phpの`/path/to/your/project/src`を設定
 1. `php aggregate.php`
 
